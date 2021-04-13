@@ -4,5 +4,5 @@ matplotlib==3.2.2
 scikit-fuzzy
 scikit-learn==0.21.3
 matplotlib==3.2.2
-PIL==6.2.0
+pillow
 tkinter==8.6
