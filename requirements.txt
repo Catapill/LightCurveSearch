@@ -5,4 +5,4 @@ scikit-fuzzy
 scikit-learn==0.21.3
 matplotlib==3.2.2
 pillow
-python-tk
+python3-tk
