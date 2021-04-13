@@ -1,0 +1,13 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - PIL
+  - matplotlib
+  - operator
+  - csv
+  - skfuzzy
+  - sklearn.naive_bayes
+  - tkinter
